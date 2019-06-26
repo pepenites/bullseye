@@ -14,6 +14,7 @@
 		820A784622C0E08C0069613E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 820A784422C0E08C0069613E /* LaunchScreen.storyboard */; };
 		820A784E22C2547C0069613E /* AboutViewControlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820A784D22C2547C0069613E /* AboutViewControlerViewController.swift */; };
 		820A785022C267A10069613E /* AboutAuthorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820A784F22C267A10069613E /* AboutAuthorViewController.swift */; };
+		820A785222C38FA10069613E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 820A785122C38FA10069613E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		820A784722C0E08C0069613E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		820A784D22C2547C0069613E /* AboutViewControlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewControlerViewController.swift; sourceTree = "<group>"; };
 		820A784F22C267A10069613E /* AboutAuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAuthorViewController.swift; sourceTree = "<group>"; };
+		820A785122C38FA10069613E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				820A784222C0E08C0069613E /* Assets.xcassets */,
 				820A784422C0E08C0069613E /* LaunchScreen.storyboard */,
 				820A784722C0E08C0069613E /* Info.plist */,
+				820A785122C38FA10069613E /* README.md */,
 			);
 			path = Bullseye;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			files = (
 				820A784622C0E08C0069613E /* LaunchScreen.storyboard in Resources */,
 				820A784322C0E08C0069613E /* Assets.xcassets in Resources */,
+				820A785222C38FA10069613E /* README.md in Resources */,
 				820A784122C0E08C0069613E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
